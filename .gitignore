@@ -1,0 +1,14 @@
+anyserver.py
+CHANGELOG
+examples/
+extras/
+gluon/
+handlers/
+LICENSE
+MANIFEST.in
+NEWINSTALL
+README.markdown
+scripts/
+site-packages/
+VERSION
+web2py.py
